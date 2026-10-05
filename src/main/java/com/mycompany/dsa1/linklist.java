@@ -83,9 +83,8 @@ public class linklist {
          ll2.set(2, "999");
          System.out.println("Linkedlist 12 "+ll2);
          System.out.println("Size "+ll2.size());
-        
-        
-        
+      
+         System.out.println("Jen");
         
     }   
 }
